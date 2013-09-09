@@ -1,0 +1,11 @@
+{
+  "name": "Angular Gantt",
+  "version": "0.1.0",
+  "description": "A Gantt chart directive for Angular.js without any other dependencies.",
+  "keywords": ["gantt", "angular"],
+  "homepage": "https://github.com/Schweigi/angular-gantt",
+  "author": "Schweigi",
+  "main": ["js/gantt.js"],
+  "dependencies": {
+  }
+}
